@@ -32,7 +32,7 @@ GET /count?inputString=aaaaabcccc
 GET /count?inputString=abc@
 Ответ: `getResult.inputString: The request parameter must match the regular expression:\w+`
 
-#№ Используемые технологии
+## Используемые технологии
 1. Spring Boot 3.1.4 
 2. Java 17
 3. JUnit 5
